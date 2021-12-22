@@ -645,7 +645,7 @@ footer > div > .row > div:first-child > p {
 }
 
 footer > div > .row > div:nth-child(2) > img {
-	padding-top: 30px;
+	/* padding-top: 30px; */
 }
 
 footer > div > .row > div:last-child > p {
